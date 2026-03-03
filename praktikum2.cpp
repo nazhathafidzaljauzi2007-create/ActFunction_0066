@@ -25,8 +25,9 @@ void Output (){
 int main()
 {
     Input();
-    Output();
+    Output();  
     cout << "Hasil Penjumlahan = " << Jumlah(5,6,9);
 
 }
+
 
