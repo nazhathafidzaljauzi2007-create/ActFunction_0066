@@ -19,7 +19,7 @@ int Jumlah(int a, int b, int c){
 }
 
 void Output (){
-    cout << "Hasilnya = " << LuasPersegi(p,l) <<endl;
+    cout << "Hasilnya = " << LuasPersegi(p,l) <<endl;  
 }
 
 int main()
@@ -29,3 +29,4 @@ int main()
     cout << "Hasil Penjumlahan = " << Jumlah(5,6,9);
 
 }
+
