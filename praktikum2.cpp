@@ -23,12 +23,13 @@ void Output (){
 }
 
 int main()
-{
+{ 
     Input();
     Output();  
     cout << "Hasil Penjumlahan = " << Jumlah(5,6,9);
 
 }  
+
 
 
 
