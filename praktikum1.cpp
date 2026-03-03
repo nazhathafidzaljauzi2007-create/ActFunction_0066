@@ -10,7 +10,7 @@ void Input (){
     cin >> l;
 }
 
-float LuasPersegi(){
+float LuasPersegi(){ 
     return p*l;
 }
 
@@ -24,3 +24,4 @@ int main()
     Output();
 
 }
+
