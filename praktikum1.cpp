@@ -6,7 +6,7 @@ using namespace std;
 void Input (){
     cout << "Masukkan Panjang : " ;
     cin >> p;
-    cout << "Masukkan Lebar : " ;
+    cout << "Masukkan Lebar : " ;  
     cin >> l;
 }
 
@@ -24,5 +24,6 @@ int main()
     Output();
 
 }  
+
 
 
