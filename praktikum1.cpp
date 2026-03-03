@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 
       float p,l;
 
@@ -22,4 +22,5 @@ int main()
 {
     Input();
     Output();
+
 }
